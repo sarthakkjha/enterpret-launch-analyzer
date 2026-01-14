@@ -10,7 +10,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(false)
   const [error, setError] = useState(null)
 
-  const API_BASE = 'http://localhost:8080/api'
+  const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8080/api'
 
   const handleAnalyze = async () => {
     if (!preLaunchFile || !postLaunchFile) {
