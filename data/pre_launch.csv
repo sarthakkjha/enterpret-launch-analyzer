@@ -1,0 +1,16 @@
+id,date,user_id,review_text,rating,source
+1,2024-01-05,user_101,"The dashboard is really slow to load. Takes forever to see my analytics.",2,app_store
+2,2024-01-06,user_102,"Good product overall but the reporting feature is confusing and hard to navigate.",3,support_ticket
+3,2024-01-08,user_103,"Love the concept but crashes frequently when generating reports.",2,app_store
+4,2024-01-10,user_104,"Customer support is great but the export functionality is broken.",3,email_feedback
+5,2024-01-12,user_105,"Interface looks outdated compared to competitors. Needs a refresh.",2,social_media
+6,2024-01-14,user_106,"Data accuracy is excellent but the visualization options are limited.",4,survey
+7,2024-01-15,user_107,"Wish there was a dark mode option. Eye strain after long use.",3,app_store
+8,2024-01-17,user_108,"The mobile experience is terrible. Can barely use it on my phone.",1,app_store
+9,2024-01-19,user_109,"Great for basic analytics but missing advanced filtering options.",3,support_ticket
+10,2024-01-20,user_110,"Integration with our CRM keeps failing. Very frustrating.",2,email_feedback
+11,2024-01-22,user_111,"Price is fair for what you get but performance could be better.",3,survey
+12,2024-01-24,user_112,"The onboarding process is confusing. Took me days to figure things out.",2,support_ticket
+13,2024-01-25,user_113,"Solid tool for feedback analysis but needs real-time updates.",4,email_feedback
+14,2024-01-27,user_114,"Sometimes the sentiment analysis seems off. Marks positive reviews as negative.",2,app_store
+15,2024-01-29,user_115,"Been using for 6 months. Works ok but nothing special compared to alternatives.",3,survey

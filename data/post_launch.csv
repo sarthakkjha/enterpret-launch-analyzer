@@ -1,0 +1,16 @@
+id,date,user_id,review_text,rating,source
+1,2024-02-15,user_201,"Wow! The new update is amazing. Dashboard loads instantly now!",5,app_store
+2,2024-02-16,user_202,"Finally! The reporting feature is so much easier to use. Great improvement!",5,support_ticket
+3,2024-02-17,user_203,"No more crashes! The app is super stable after the update.",5,app_store
+4,2024-02-18,user_204,"Export works perfectly now. Just downloaded 3 reports without issues.",5,email_feedback
+5,2024-02-19,user_205,"Love the new modern interface! Looks so professional now.",5,social_media
+6,2024-02-20,user_206,"New visualization options are fantastic. So many chart types to choose from!",5,survey
+7,2024-02-21,user_207,"Dark mode is here! My eyes thank you. Using it all the time now.",5,app_store
+8,2024-02-22,user_208,"Mobile app is finally usable! Responsive design works great on my phone.",4,app_store
+9,2024-02-23,user_209,"The advanced filters are exactly what we needed. Can drill down into specific segments.",5,support_ticket
+10,2024-02-24,user_210,"CRM integration works flawlessly now. Data syncs automatically.",4,email_feedback
+11,2024-02-25,user_211,"Performance boost is noticeable. Worth every penny we pay.",5,survey
+12,2024-02-26,user_212,"New onboarding wizard is brilliant! Set up in 10 minutes.",5,support_ticket
+13,2024-02-27,user_213,"Real-time updates are a game changer for our team.",5,email_feedback
+14,2024-02-28,user_214,"Sentiment analysis is much more accurate now. Really impressive AI.",4,app_store
+15,2024-03-01,user_215,"Best feedback tool on the market now. Recommending to all my colleagues!",5,survey
