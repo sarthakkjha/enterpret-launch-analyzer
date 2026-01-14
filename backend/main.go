@@ -69,6 +69,10 @@ func (s *Server) Start() error {
 	mux := http.NewServeMux()
 
 	// Register routes
+	mux.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		w.WriteHeader(http.StatusOK)
+		w.Write([]byte("Enterpret Data Analysis API is running 🚀"))
+	})
 	mux.HandleFunc("/api/health", s.handler.HandleHealth)
 	mux.HandleFunc("/api/upload", s.handler.HandleUpload)
 	mux.HandleFunc("/api/analyze", s.handler.HandleAnalyze)
